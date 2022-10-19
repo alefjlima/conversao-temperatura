@@ -1,3 +1,8 @@
+[![Docker Pulls](https://badgen.net/docker/pulls/alefjlima/conversao-temperatura?icon=docker&label=pulls)](https://hub.docker.com/r/alefjlima/conversao-temperatura/)
+[![Docker Image Size](https://badgen.net/docker/size/alefjlima/conversao-temperatura?icon=docker&label=image%20size)](https://hub.docker.com/r/alefjlima/conversao-temperatura/)
+
+
+
 # Projeto conversão de temperatura
 
 ### Sobre o projeto
